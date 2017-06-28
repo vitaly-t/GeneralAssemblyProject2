@@ -16,5 +16,11 @@
 6. Foreseen challenges or obstacles
 
 7. Technology you intend to use
+* javascript
+* jQuery
+* Node
+* CSS
+* HTML
+* Postgres
 
 8. A link to your repo!
