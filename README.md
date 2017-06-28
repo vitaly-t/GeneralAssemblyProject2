@@ -1,26 +1,36 @@
 # GeneralAssemblyProject2
 
-## 1. App Name: Crime Data
+ ## App Name: Crime Data
 
-2. User stories that describe how your app will be used.
+## User stories that describe how your app will be used.
 
-3. Wireframes!
+## Wireframes!
 
-4. A link to the API you intend to use.
-* Crime info: https://market.mashape.com/jgentes/crime-data
-* To send text messages to a new user when they sign up and/or if there is a crime near their house.
+http://i64.tinypic.com/mc6kau.png
 
-5. A link to the NPM package you intend to use.
-* Formidable : A Node.js module for parsing form data, especially file uploads. https://www.npmjs.com/package/formidable
+http://i67.tinypic.com/33napv8.png
 
-6. Foreseen challenges or obstacles
+http://i68.tinypic.com/2n9yu5v.png
 
-7. Technology you intend to use
+## A link to the API you intend to use.
+
+Crime info: To get the information about criimes: https://market.mashape.com/jgentes/crime-data
+Twilio API: To send text messages to a new user when they sign up and/or if there is a crime near their house. https://www.twilio.com/docs/api
+
+## A link to the NPM package you intend to use.
+Formidable : A Node.js module for parsing form data, especially file uploads. https://www.npmjs.com/package/formidable
+
+## Foreseen challenges or obstacles
+Getting latitude/longitude from google maps API and then using that info to get the crime data from "crime-data" API
+
+## Technology you intend to use
+
 * javascript
 * jQuery
-* Node
+* Node(express,axios,pg-promise,mustache-express,..)
 * CSS
 * HTML
 * Postgres
 
-8. A link to your repo!
+## A link to your repo!
+https://github.com/MigueVeliz/GeneralAssemblyProject2
