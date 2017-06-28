@@ -6,11 +6,13 @@
 
 ## Wireframes!
 
-http://i64.tinypic.com/mc6kau.png
+![alt text](http://i64.tinypic.com/mc6kau.png "image")
 
-http://i67.tinypic.com/33napv8.png
 
-http://i68.tinypic.com/2n9yu5v.png
+
+![](http://i67.tinypic.com/33napv8.png)
+
+![](http://i68.tinypic.com/2n9yu5v.png)
 
 ## A link to the API you intend to use.
 
