@@ -7,7 +7,7 @@ const User = {};
 function create (user) {
   const password = bcrypt.hashSync(user.password, 10);
   console.log(user);
-  return db.oneOrNone(`
+  return db.one(`
     INSERT INTO users
     (email, password_digest)
     VALUES
