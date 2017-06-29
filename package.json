@@ -1,0 +1,33 @@
+{
+  "name": "general-assembly-project-2",
+  "version": "1.0.0",
+  "description": "Project for Unit 2 @GeneralAssembly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MigueVeliz/GeneralAssemblyProject2.git"
+  },
+  "author": "Angel Veliz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MigueVeliz/GeneralAssemblyProject2/issues"
+  },
+  "homepage": "https://github.com/MigueVeliz/GeneralAssemblyProject2#readme",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.17.2",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.3",
+    "express-session": "^1.15.3",
+    "morgan": "^1.8.2",
+    "mustache-express": "^1.2.5",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "pg-promise": "^6.2.1"
+  }
+}

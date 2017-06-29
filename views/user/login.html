@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Login User</title>
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+  <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+  <main>
+    <section class="center-container">
+
+      <form action="/user/login" class="user-form" method="POST">
+        <h1>Login</h1>
+        <label for="email">Email</label>
+        <input id="email" type="text" name="user[email]" placeholder="john.doe@example.com">
+        <label for="password">Password</label>
+        <input id="password" type="password" name="user[password]" placeholder="P4ssw0rd1234">
+        <button>Log In</button>
+        <a href="/user/new">Sign Up</a>
+      </form>
+      <div>
+
+      </div>
+    </section>
+  </main>
+</body>
+</html>
